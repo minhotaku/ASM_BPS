@@ -1,0 +1,201 @@
+access_id,customer_id,access_category,access_date,access_time,duration,page_views,device_type,browser_type,location,referrer_url,created_at,updated_at
+1,100,Checkout,2024-07-07,13:53:07,1094,2,Mobile,Edge,Port Mario,http://www.schneider.com/,2024-03-30 07:43:22,2024-01-04 18:07:36
+2,77,Product Page,2024-02-01,19:49:53,70,17,Tablet,Safari,Powersberg,http://www.castro.net/,2024-07-13 17:20:54,2024-03-23 16:12:53
+3,64,Search,2024-05-03,06:53:24,3427,48,Desktop,Firefox,Douglasburgh,http://www.morris.com/,2024-01-31 13:52:55,2024-01-11 00:37:42
+4,81,Checkout,2024-01-19,17:26:50,2232,47,Mobile,Edge,North Sarahaven,https://www.meadows.info/,2024-06-24 17:09:13,2024-05-10 06:57:01
+5,72,Search,2024-07-14,15:38:41,2077,31,Tablet,Firefox,Karenville,http://www.cain.com/,2024-05-21 16:52:52,2024-04-18 05:38:04
+6,48,Checkout,2024-05-10,00:40:02,1750,50,Mobile,Firefox,Mcneilton,http://www.turner-parsons.com/,2024-02-01 04:42:27,2024-02-04 13:32:36
+7,50,Product Page,2024-07-02,05:52:05,764,25,Desktop,Chrome,Tinaberg,https://www.martin.com/,2024-02-28 19:02:18,2024-03-27 13:48:08
+8,16,Checkout,2024-06-24,15:29:19,3098,4,Tablet,Firefox,West Bonnie,http://lutz-ortiz.info/,2024-03-03 23:52:13,2024-07-04 20:09:53
+9,71,Product Page,2024-07-08,02:33:44,909,26,Tablet,Chrome,South Mary,http://www.griffin-mason.com/,2024-04-19 13:41:54,2024-06-13 13:38:09
+10,25,Blog,2024-02-11,23:47:35,1286,21,Desktop,Chrome,East Johnnyview,https://castillo.com/,2024-06-17 17:30:51,2024-04-15 06:41:26
+11,32,Home Page,2024-01-19,16:36:22,3344,11,Mobile,Edge,Dawnfurt,https://johnson-fleming.com/,2024-06-08 03:07:37,2024-02-12 20:45:02
+12,28,Search,2024-04-10,02:42:17,813,14,Mobile,Firefox,Tanyaberg,http://owens-norman.com/,2024-02-11 02:32:49,2024-06-22 01:13:18
+13,20,Product Page,2024-06-22,02:48:29,1065,30,Mobile,Safari,Jamestown,http://humphrey.net/,2024-03-24 00:42:41,2024-01-26 00:00:57
+14,26,Product Page,2024-05-26,01:16:12,3168,35,Mobile,Chrome,North Jaredstad,https://www.martinez.com/,2024-02-07 07:11:08,2024-01-15 13:36:45
+15,64,Blog,2024-03-10,16:32:44,841,27,Mobile,Firefox,South Jacqueline,http://williams-irwin.com/,2024-05-25 16:57:38,2024-03-18 13:49:36
+16,66,Blog,2024-05-08,07:34:32,725,4,Mobile,Firefox,Port Michaelfurt,http://www.holloway-morgan.biz/,2024-04-20 19:20:18,2024-04-28 01:33:30
+17,91,Home Page,2024-01-28,08:33:57,2944,21,Desktop,Opera,Figueroashire,http://simpson-owens.net/,2024-03-29 09:49:48,2024-04-16 21:25:10
+18,35,Blog,2024-04-03,13:36:51,1043,24,Desktop,Opera,East Jermaineberg,https://www.glass.com/,2024-03-06 20:52:54,2024-03-10 11:49:34
+19,69,Checkout,2024-03-17,00:54:58,2000,6,Tablet,Opera,Philipstad,https://west.com/,2024-02-16 19:55:06,2024-03-23 15:29:52
+20,69,Search,2024-05-22,02:56:43,2764,35,Tablet,Opera,South Rebeccahaven,https://spencer-sanchez.com/,2024-01-09 03:44:21,2024-06-26 17:05:42
+21,82,Blog,2024-03-28,18:01:57,3519,45,Mobile,Opera,Lake Danielville,http://cortez.com/,2024-04-05 11:09:22,2024-03-20 11:09:38
+22,23,Product Page,2024-04-21,13:43:01,2494,19,Tablet,Safari,New Mark,http://irwin.com/,2024-06-28 04:55:16,2024-05-20 04:01:05
+23,99,Home Page,2024-07-18,03:24:17,760,5,Tablet,Chrome,South James,https://www.williams.org/,2024-01-30 11:38:12,2024-01-02 08:28:20
+24,25,Home Page,2024-06-02,23:55:39,552,14,Mobile,Chrome,Wheelershire,https://www.tapia-chen.org/,2024-01-02 12:16:37,2024-02-01 23:19:49
+25,87,Search,2024-01-02,13:06:36,111,2,Tablet,Firefox,New Bryanside,https://www.livingston-walsh.com/,2024-02-03 09:03:55,2024-04-17 20:43:13
+26,27,Product Page,2024-07-19,11:29:51,919,14,Mobile,Opera,Gambleshire,https://www.pena.com/,2024-03-14 07:19:17,2024-04-29 12:18:14
+27,91,Home Page,2024-07-04,02:22:01,3318,20,Desktop,Safari,West Abigailbury,http://www.adams.info/,2024-04-07 22:24:42,2024-04-13 06:19:38
+28,50,Product Page,2024-03-05,12:11:36,730,25,Mobile,Opera,Leonardstad,https://www.gutierrez-dalton.com/,2024-03-05 09:05:37,2024-03-14 23:41:48
+29,16,Home Page,2024-05-16,04:07:46,2529,8,Tablet,Safari,Port Michelleside,https://www.davis.com/,2024-07-09 08:33:41,2024-03-30 13:50:01
+30,55,Blog,2024-05-30,22:57:54,1844,31,Mobile,Chrome,South Angela,http://www.turner.com/,2024-06-17 21:10:11,2024-07-04 12:15:27
+31,84,Product Page,2024-06-03,22:57:17,126,11,Mobile,Firefox,Graybury,http://soto.com/,2024-04-02 00:23:32,2024-04-22 18:58:48
+32,76,Blog,2024-06-24,09:03:24,824,25,Desktop,Edge,Port Brianland,http://patterson.info/,2024-05-25 05:29:16,2024-07-11 08:26:38
+33,96,Product Page,2024-02-16,22:39:58,443,29,Mobile,Safari,Collinsville,http://www.white.org/,2024-05-04 13:23:09,2024-04-12 15:27:29
+34,60,Home Page,2024-02-17,09:05:36,779,49,Mobile,Safari,Elizabethberg,https://www.garcia.com/,2024-03-30 11:00:33,2024-03-02 22:47:48
+35,41,Blog,2024-06-11,01:11:47,3014,4,Mobile,Opera,East Timothy,https://www.kennedy.com/,2024-05-24 12:00:22,2024-02-21 12:58:52
+36,4,Home Page,2024-03-04,22:47:14,422,35,Desktop,Firefox,East Miranda,http://smith-schaefer.com/,2024-03-09 22:07:16,2024-06-03 16:16:20
+37,80,Blog,2024-06-03,05:24:40,1000,28,Tablet,Opera,Mckenzieberg,http://www.flores-leon.biz/,2024-04-11 01:35:21,2024-01-10 14:20:48
+38,65,Product Page,2024-04-12,22:01:38,3211,39,Mobile,Firefox,North Thomas,http://mahoney.com/,2024-07-13 10:00:07,2024-02-10 10:54:38
+39,52,Home Page,2024-05-08,14:25:04,2852,3,Tablet,Chrome,Coopershire,https://www.lloyd.info/,2024-02-21 07:05:39,2024-06-18 22:02:10
+40,91,Product Page,2024-07-16,00:22:23,2294,8,Mobile,Chrome,South Stephanie,https://www.williams.com/,2024-04-21 06:53:46,2024-01-05 02:36:17
+41,28,Search,2024-04-21,12:28:40,3382,38,Mobile,Firefox,Gibsonport,https://www.howell.info/,2024-02-28 05:55:59,2024-01-31 10:01:28
+42,38,Product Page,2024-03-05,13:06:53,3429,10,Mobile,Opera,Michaelton,http://www.johnson.com/,2024-01-08 10:42:36,2024-06-28 23:22:58
+43,69,Product Page,2024-07-09,01:11:23,1450,49,Mobile,Firefox,East Daisy,https://hall.com/,2024-06-10 20:19:11,2024-07-18 23:38:32
+44,35,Search,2024-02-15,22:12:34,442,31,Mobile,Firefox,Zimmermanhaven,https://www.park.com/,2024-03-08 08:14:39,2024-03-17 08:11:59
+45,41,Blog,2024-01-14,17:42:01,1695,42,Tablet,Safari,Andreachester,https://moreno.com/,2024-03-23 20:42:05,2024-01-02 01:53:56
+46,16,Checkout,2024-02-10,09:10:09,2294,17,Desktop,Firefox,New Patrickberg,https://www.johnson.com/,2024-05-01 19:10:35,2024-04-22 18:35:51
+47,87,Home Page,2024-02-25,18:42:08,1300,24,Tablet,Firefox,Travisburgh,http://www.gilbert-howell.com/,2024-03-05 00:11:55,2024-02-26 08:21:44
+48,69,Home Page,2024-01-19,13:51:59,2887,4,Desktop,Opera,Robertburgh,https://moody.biz/,2024-03-22 20:31:09,2024-05-31 03:34:07
+49,11,Home Page,2024-02-03,17:05:29,1316,12,Tablet,Opera,West Debraport,http://www.hubbard.net/,2024-03-19 09:40:00,2024-06-20 03:22:42
+50,23,Product Page,2024-05-01,04:22:16,1383,50,Mobile,Firefox,Aliciaville,https://castillo-smith.com/,2024-03-02 05:25:23,2024-03-03 06:42:01
+51,60,Product Page,2024-01-21,14:26:54,435,39,Tablet,Chrome,Gibsonstad,https://www.perez-bautista.com/,2024-03-07 08:07:42,2024-02-17 22:30:39
+52,60,Product Page,2024-01-05,02:36:57,1909,34,Tablet,Edge,Danielsberg,https://gill.com/,2024-05-14 01:53:51,2024-03-05 23:45:10
+53,49,Home Page,2024-03-06,01:36:37,2596,40,Desktop,Firefox,Griffinbury,http://www.park.com/,2024-05-08 22:22:37,2024-06-14 16:38:07
+54,41,Blog,2024-02-01,17:51:38,847,49,Desktop,Opera,Williamsonside,http://elliott.net/,2024-06-18 09:17:54,2024-06-16 12:55:21
+55,73,Search,2024-06-03,23:44:06,3126,14,Tablet,Firefox,Elizabethbury,https://www.jones-harris.com/,2024-07-21 12:35:48,2024-05-31 01:00:19
+56,16,Product Page,2024-07-04,00:44:53,3103,29,Mobile,Opera,Virginiahaven,https://www.hebert-moody.com/,2024-05-06 03:30:09,2024-03-25 02:43:11
+57,23,Product Page,2024-04-09,06:34:37,3566,8,Desktop,Opera,New Melaniefurt,https://www.burke-flores.com/,2024-01-12 16:04:26,2024-05-02 06:55:53
+58,60,Blog,2024-04-11,11:33:59,1979,35,Mobile,Firefox,East Christinaview,https://marks.info/,2024-01-28 02:49:59,2024-01-29 01:21:51
+59,10,Home Page,2024-04-16,13:43:10,1847,27,Mobile,Opera,Chungfort,https://ho.com/,2024-05-17 10:58:38,2024-06-09 21:37:21
+60,37,Search,2024-05-04,14:23:46,2898,6,Mobile,Safari,West Melissa,http://arnold.com/,2024-06-07 14:15:05,2024-06-07 10:59:57
+61,86,Home Page,2024-01-04,23:28:22,1663,13,Desktop,Safari,Port Joan,http://www.maddox.biz/,2024-02-13 22:29:53,2024-06-20 07:52:25
+62,92,Checkout,2024-06-15,06:37:23,2243,7,Tablet,Firefox,West Katieberg,http://washington.com/,2024-05-11 15:59:07,2024-03-11 11:46:59
+63,51,Search,2024-03-03,01:14:04,585,37,Tablet,Chrome,Michaelchester,http://delacruz.com/,2024-01-01 12:44:02,2024-05-07 06:41:05
+64,25,Checkout,2024-06-08,22:00:28,1345,2,Tablet,Opera,East Gregory,https://jones.com/,2024-04-25 20:18:55,2024-05-28 07:52:28
+65,34,Product Page,2024-06-25,08:00:09,797,47,Desktop,Edge,Port Eric,https://marks-sanders.com/,2024-01-31 23:50:07,2024-04-16 17:25:04
+66,34,Home Page,2024-04-23,00:02:29,3070,27,Tablet,Safari,Brittanyport,http://ferguson-kelly.net/,2024-01-05 21:31:43,2024-02-22 11:36:37
+67,55,Product Page,2024-05-01,00:19:47,2418,30,Tablet,Chrome,Benjaminmouth,http://lynn.net/,2024-06-30 12:34:08,2024-01-16 10:54:11
+68,22,Search,2024-03-07,11:23:33,191,19,Mobile,Edge,Gomezfort,http://www.ray.org/,2024-06-25 16:19:26,2024-04-06 22:24:29
+69,89,Home Page,2024-01-12,12:40:11,1988,40,Mobile,Edge,North Candaceland,https://www.price-wilson.net/,2024-06-04 21:57:04,2024-02-15 21:17:14
+70,68,Product Page,2024-05-12,15:43:19,1595,19,Tablet,Opera,East Jesusfort,https://www.hayes-todd.info/,2024-04-08 02:01:54,2024-06-26 15:35:12
+71,43,Checkout,2024-05-04,16:48:25,1705,15,Tablet,Chrome,Lake Jeffery,https://young.net/,2024-01-13 11:09:09,2024-06-30 12:13:21
+72,45,Checkout,2024-03-26,12:11:25,1054,35,Desktop,Firefox,New Allison,http://www.smith.com/,2024-01-15 19:21:48,2024-07-02 19:19:33
+73,1,Home Page,2024-05-13,20:41:54,1684,27,Desktop,Safari,East Jason,https://www.hernandez.net/,2024-05-04 19:31:45,2024-03-22 22:22:55
+74,49,Home Page,2024-01-10,01:39:50,2389,19,Mobile,Safari,Port Sheriborough,http://gonzalez.biz/,2024-04-18 03:03:42,2024-03-10 09:40:03
+75,48,Product Page,2024-02-05,16:02:16,2966,25,Tablet,Chrome,Martinezmouth,http://www.allen.com/,2024-03-08 08:29:17,2024-05-11 09:53:26
+76,25,Search,2024-01-31,01:42:21,2872,31,Tablet,Opera,Tracyfurt,https://www.washington.com/,2024-07-22 01:24:59,2024-02-09 15:15:22
+77,85,Blog,2024-05-01,08:49:49,3457,47,Desktop,Opera,Port Kevin,https://www.cervantes.biz/,2024-06-15 19:01:32,2024-02-24 07:07:19
+78,39,Home Page,2024-03-05,17:35:07,2656,3,Desktop,Safari,Alyssafurt,https://bolton-mcdonald.com/,2024-02-29 14:05:08,2024-02-21 09:40:22
+79,22,Product Page,2024-07-21,08:47:54,1424,38,Tablet,Firefox,Matthewview,https://moore-rojas.org/,2024-06-11 16:57:22,2024-05-21 16:32:31
+80,21,Home Page,2024-07-03,18:49:02,2046,40,Desktop,Safari,Erikaton,https://www.cobb.net/,2024-02-18 19:55:54,2024-06-24 21:30:53
+81,58,Product Page,2024-05-28,18:40:59,3257,35,Mobile,Firefox,Wallacechester,https://www.bell.com/,2024-01-07 00:27:12,2024-02-16 19:41:48
+82,82,Home Page,2024-05-19,23:44:50,1711,44,Tablet,Opera,East Donaldtown,https://www.potter-murray.biz/,2024-02-27 20:40:37,2024-04-05 07:07:36
+83,86,Blog,2024-05-25,13:45:47,2394,1,Desktop,Firefox,Stephenshire,http://johnson.com/,2024-01-30 12:30:17,2024-01-21 11:30:53
+84,57,Search,2024-05-05,08:23:30,1506,6,Mobile,Safari,Jeremyshire,https://www.dominguez-mccarty.com/,2024-02-25 02:04:43,2024-05-31 14:47:51
+85,47,Blog,2024-06-23,21:48:54,2255,16,Desktop,Safari,Lake Josephstad,https://smith-garcia.info/,2024-05-19 11:03:25,2024-03-18 20:12:50
+86,96,Product Page,2024-02-24,21:04:23,3087,1,Mobile,Firefox,Danielchester,https://www.wilcox.com/,2024-04-14 17:23:55,2024-04-01 01:27:02
+87,88,Search,2024-04-22,11:06:41,3136,19,Tablet,Chrome,Barrettstad,http://lopez.com/,2024-01-11 11:02:13,2024-06-01 17:22:48
+88,12,Home Page,2024-04-26,04:03:39,1172,15,Tablet,Opera,South David,http://lopez.com/,2024-05-27 14:58:29,2024-01-21 07:44:00
+89,87,Search,2024-07-14,11:58:37,1221,19,Mobile,Safari,Michaelside,http://www.cooper-stevens.net/,2024-05-19 21:53:10,2024-07-21 06:38:31
+90,84,Blog,2024-03-27,03:03:03,942,3,Desktop,Opera,Odomberg,https://www.hull.org/,2024-02-23 05:04:31,2024-06-24 12:38:41
+91,43,Search,2024-04-15,03:53:12,568,31,Mobile,Opera,Jenniferbury,http://www.jimenez.info/,2024-03-21 20:35:04,2024-05-16 11:04:04
+92,96,Search,2024-04-26,10:27:43,3055,19,Tablet,Edge,Morganstad,https://www.campbell.com/,2024-07-19 03:13:00,2024-05-26 05:07:30
+93,25,Home Page,2024-05-11,09:38:13,3267,37,Tablet,Firefox,Travisburgh,http://mccormick.com/,2024-04-19 13:02:33,2024-05-27 21:44:14
+94,14,Blog,2024-01-22,19:49:40,2625,45,Desktop,Chrome,Coleborough,http://jackson.info/,2024-02-09 22:38:19,2024-05-20 12:32:40
+95,69,Search,2024-02-04,19:26:41,2482,47,Mobile,Edge,Port Johnnyhaven,http://joseph.com/,2024-04-10 06:30:04,2024-02-10 00:42:52
+96,74,Search,2024-02-17,20:14:15,1698,41,Tablet,Safari,Nicholston,http://campbell-paul.net/,2024-03-31 23:09:56,2024-01-28 16:30:41
+97,7,Blog,2024-06-26,05:28:10,1984,17,Tablet,Safari,Ayalaburgh,http://www.garza-carter.com/,2024-04-11 16:16:05,2024-01-27 15:09:54
+98,58,Blog,2024-06-11,14:31:55,3541,50,Mobile,Edge,Lewisberg,https://perkins-crawford.com/,2024-03-16 00:08:35,2024-03-23 06:59:08
+99,16,Home Page,2024-02-15,09:32:16,3353,13,Tablet,Edge,South Brettstad,https://whitney-cole.biz/,2024-04-23 02:30:35,2024-06-02 11:52:04
+100,50,Product Page,2024-01-27,07:31:00,2132,5,Tablet,Edge,New Danahaven,https://mays.biz/,2024-04-12 19:25:38,2024-02-19 08:16:30
+101,31,Search,2024-01-19,10:07:55,2255,31,Tablet,Edge,Lake Meganport,https://www.byrd.com/,2024-01-26 00:43:03,2024-07-14 03:40:58
+102,48,Home Page,2024-01-26,00:00:32,1071,17,Tablet,Edge,North Emily,https://www.mitchell.com/,2024-07-01 06:52:17,2024-07-08 08:34:06
+103,51,Search,2024-06-03,09:04:20,200,18,Desktop,Chrome,Fernandezhaven,https://garcia.org/,2024-04-12 08:54:05,2024-07-11 13:27:18
+104,61,Home Page,2024-07-20,18:36:09,864,17,Mobile,Chrome,West Jacobhaven,https://www.nguyen.com/,2024-04-16 03:35:51,2024-07-13 04:22:35
+105,36,Product Page,2024-06-25,02:07:28,493,11,Desktop,Edge,Christinaside,https://www.king-mccoy.net/,2024-02-26 01:08:17,2024-04-19 17:03:11
+106,32,Product Page,2024-01-10,09:43:46,2218,32,Mobile,Firefox,East William,http://www.quinn-tate.info/,2024-02-25 07:40:29,2024-07-01 12:41:07
+107,30,Blog,2024-04-14,03:02:12,465,31,Mobile,Edge,South Derek,https://www.perez.com/,2024-04-30 00:21:48,2024-07-20 13:16:21
+108,4,Product Page,2024-03-22,08:43:41,1066,50,Tablet,Safari,North Kellyhaven,http://www.webb-harris.com/,2024-06-11 18:45:02,2024-07-09 16:05:35
+109,40,Home Page,2024-03-01,12:38:14,1682,6,Tablet,Safari,Lake Stephanie,http://www.steele.com/,2024-02-01 21:00:32,2024-05-01 18:12:00
+110,87,Product Page,2024-05-31,01:08:44,594,48,Mobile,Edge,New Crystal,http://hunt-lynch.com/,2024-01-02 10:29:26,2024-02-16 19:30:37
+111,70,Checkout,2024-02-11,21:01:14,2834,12,Mobile,Opera,Tanyaland,https://www.davis-richardson.com/,2024-07-20 14:51:23,2024-05-06 11:51:02
+112,7,Product Page,2024-05-07,09:33:53,194,46,Mobile,Firefox,East Nathan,https://www.parker-mcmahon.info/,2024-04-12 14:09:49,2024-05-13 23:00:29
+113,23,Checkout,2024-02-04,10:24:53,1366,8,Mobile,Opera,Port Katelyn,https://www.pope-le.com/,2024-03-25 00:55:27,2024-01-23 05:32:48
+114,43,Blog,2024-06-12,09:12:57,3442,19,Tablet,Firefox,Stevensberg,http://www.meyer.com/,2024-06-15 12:20:14,2024-01-31 10:53:26
+115,11,Blog,2024-02-26,13:59:54,152,2,Desktop,Safari,Hannahview,http://www.armstrong.com/,2024-01-07 09:53:32,2024-04-12 17:10:22
+116,40,Blog,2024-01-08,02:47:33,2069,43,Desktop,Firefox,Melissatown,http://www.flores.com/,2024-05-11 07:42:04,2024-06-15 15:43:05
+117,100,Blog,2024-03-14,12:22:32,2775,23,Mobile,Edge,Lake Jeremy,http://watts.com/,2024-02-12 03:57:59,2024-03-19 21:27:52
+118,10,Blog,2024-02-20,10:46:09,3067,1,Desktop,Chrome,Trujillofort,http://reed-hall.com/,2024-03-02 21:27:52,2024-04-25 17:57:31
+119,4,Blog,2024-07-09,08:00:07,2594,26,Mobile,Safari,Barnettberg,https://www.frederick.com/,2024-03-22 08:30:22,2024-02-19 03:42:07
+120,96,Search,2024-05-03,13:20:27,1235,45,Mobile,Safari,New Staceyville,http://www.ford.com/,2024-07-11 06:06:26,2024-05-08 03:33:44
+121,8,Home Page,2024-01-01,14:11:50,3022,2,Desktop,Opera,Paulchester,https://www.fuller.com/,2024-06-23 13:01:23,2024-01-09 02:28:32
+122,82,Checkout,2024-03-25,12:14:18,1095,3,Tablet,Edge,Lake Kurt,https://peterson-brown.biz/,2024-06-04 17:14:56,2024-07-03 11:06:33
+123,88,Search,2024-03-16,06:27:41,1565,21,Mobile,Edge,West Christophermouth,http://www.flowers-maxwell.com/,2024-06-22 22:03:40,2024-04-11 11:27:30
+124,55,Blog,2024-05-29,16:01:00,2302,48,Tablet,Edge,Lake Jenniferton,https://steele.info/,2024-04-21 13:52:16,2024-02-08 00:28:34
+125,51,Home Page,2024-06-03,19:56:58,1524,1,Mobile,Safari,Mooretown,https://mckinney-wilson.com/,2024-03-19 21:23:13,2024-06-11 17:19:47
+126,26,Search,2024-02-14,21:57:18,1808,21,Desktop,Safari,Scottbury,http://www.hoover.com/,2024-04-23 07:21:35,2024-07-08 00:22:47
+127,64,Checkout,2024-05-05,20:27:26,2916,2,Mobile,Opera,Port Valerie,https://www.shepard-morrison.com/,2024-02-23 19:25:37,2024-03-14 12:08:03
+128,36,Blog,2024-07-01,03:56:09,2222,14,Mobile,Safari,Sanchezburgh,http://www.foley.com/,2024-01-08 04:12:47,2024-01-01 09:26:56
+129,21,Home Page,2024-01-19,14:56:22,1701,14,Mobile,Chrome,Lake Johnberg,http://avila-koch.com/,2024-06-18 11:19:48,2024-02-27 19:19:10
+130,98,Search,2024-02-26,19:58:32,2829,46,Tablet,Chrome,Dennismouth,https://williams.com/,2024-01-09 06:00:26,2024-07-13 14:33:45
+131,54,Product Page,2024-03-31,12:44:33,195,13,Mobile,Firefox,West Josephmouth,https://martinez-santana.com/,2024-06-29 14:02:21,2024-04-21 14:26:28
+132,47,Home Page,2024-02-05,08:55:10,3323,7,Mobile,Safari,Louisville,https://baker.com/,2024-04-09 00:01:23,2024-01-14 10:35:27
+133,74,Home Page,2024-05-03,15:53:38,2599,24,Mobile,Opera,Earlmouth,http://ortiz.com/,2024-02-04 12:29:29,2024-03-17 19:18:00
+134,54,Search,2024-05-24,03:35:15,1315,29,Tablet,Firefox,West Tiffany,https://www.mcdonald-reynolds.info/,2024-03-21 13:40:57,2024-03-03 19:49:12
+135,3,Product Page,2024-05-12,22:50:37,3232,4,Mobile,Firefox,Joshuamouth,http://ryan.com/,2024-05-17 23:43:00,2024-01-06 07:56:26
+136,73,Product Page,2024-03-21,21:10:35,1748,31,Mobile,Chrome,Grahamstad,https://www.morales-drake.com/,2024-03-21 07:49:40,2024-03-30 23:22:31
+137,14,Blog,2024-05-23,03:28:42,3107,50,Mobile,Safari,Aprilchester,https://www.rogers.com/,2024-05-28 15:17:28,2024-04-16 13:37:57
+138,9,Blog,2024-04-14,19:31:43,610,46,Desktop,Opera,East Daniel,https://www.guzman.com/,2024-04-16 04:47:56,2024-02-12 06:46:49
+139,53,Home Page,2024-03-19,16:43:55,364,41,Desktop,Firefox,New Michael,http://roberts-herrera.com/,2024-06-25 23:36:46,2024-03-01 02:59:56
+140,77,Search,2024-05-04,20:33:11,3244,6,Tablet,Firefox,East Jonathanmouth,https://neal.com/,2024-04-11 05:06:25,2024-04-23 10:20:58
+141,92,Product Page,2024-04-11,11:55:05,111,11,Desktop,Opera,Mezaborough,http://ward-montes.com/,2024-01-07 04:56:40,2024-01-13 17:17:06
+142,89,Checkout,2024-03-12,22:21:44,1436,22,Tablet,Edge,Kaitlynmouth,http://cook-dougherty.com/,2024-07-20 15:44:50,2024-01-01 23:21:04
+143,97,Home Page,2024-03-19,01:49:21,2362,32,Mobile,Edge,Port Jessica,https://rasmussen-martinez.com/,2024-04-06 11:06:01,2024-03-14 20:04:48
+144,88,Search,2024-04-30,03:23:11,1606,28,Mobile,Edge,Jacksonbury,http://www.cooper-jordan.biz/,2024-02-25 22:43:31,2024-05-19 16:21:47
+145,52,Search,2024-03-15,08:14:16,2681,2,Desktop,Chrome,West Kyle,https://mills.com/,2024-02-23 11:15:02,2024-06-04 21:12:53
+146,38,Blog,2024-06-07,08:15:15,147,8,Desktop,Safari,North Angelaview,http://www.villanueva.com/,2024-07-02 22:43:52,2024-05-24 13:02:48
+147,85,Checkout,2024-02-22,00:36:31,1593,42,Mobile,Firefox,Beckytown,http://www.jones-andrews.com/,2024-02-11 10:40:48,2024-04-08 00:24:53
+148,17,Home Page,2024-01-27,15:38:46,3108,12,Desktop,Chrome,South Gregorystad,http://www.cooper-sawyer.net/,2024-02-22 13:15:54,2024-01-04 10:24:31
+149,92,Search,2024-02-11,19:07:36,1859,3,Mobile,Safari,East Jacob,http://www.jackson.com/,2024-01-03 18:10:33,2024-05-14 02:34:18
+150,86,Search,2024-06-08,04:20:24,3128,44,Mobile,Safari,Wolfeview,https://www.smith.com/,2024-02-10 23:12:00,2024-07-18 08:30:30
+151,37,Blog,2024-06-26,02:11:08,67,7,Mobile,Chrome,East Heather,http://www.hall-carpenter.org/,2024-05-09 02:45:27,2024-04-10 14:14:17
+152,97,Search,2024-06-13,00:27:28,3135,35,Mobile,Chrome,New Ian,http://www.becker-mcclure.org/,2024-06-30 16:04:11,2024-06-17 23:40:08
+153,20,Product Page,2024-04-09,20:19:28,2203,26,Mobile,Firefox,South Crystalside,http://www.saunders.com/,2024-05-18 01:00:32,2024-03-04 18:41:59
+154,97,Home Page,2024-06-17,07:17:58,1692,49,Desktop,Chrome,New Josephstad,http://www.tate.biz/,2024-04-02 16:19:02,2024-07-07 10:41:11
+155,49,Home Page,2024-04-26,13:12:34,1308,13,Tablet,Firefox,Clintonbury,https://powers.net/,2024-02-12 20:44:03,2024-07-07 01:23:46
+156,28,Search,2024-02-08,15:45:17,3301,23,Tablet,Edge,Meganmouth,http://smith.com/,2024-03-17 18:37:32,2024-03-17 20:34:36
+157,80,Checkout,2024-03-14,12:19:06,1793,15,Tablet,Opera,Morrisville,https://www.stewart-middleton.com/,2024-07-02 16:43:37,2024-05-09 10:31:32
+158,67,Blog,2024-06-13,14:30:12,2086,29,Desktop,Firefox,Lake Tanyaborough,https://www.james-friedman.info/,2024-03-05 08:41:52,2024-05-13 04:58:50
+159,12,Checkout,2024-01-13,03:00:22,1052,44,Desktop,Firefox,Crystalfort,http://scott.com/,2024-04-07 19:02:33,2024-01-26 22:52:29
+160,75,Checkout,2024-05-26,10:43:48,169,37,Desktop,Edge,North Christian,https://www.gordon.com/,2024-03-03 09:50:52,2024-07-08 15:48:13
+161,49,Blog,2024-06-30,07:54:42,1877,6,Desktop,Edge,East Amandaberg,http://www.melendez.org/,2024-02-23 17:44:08,2024-05-03 15:55:59
+162,90,Blog,2024-05-29,14:25:25,563,45,Tablet,Edge,Joneschester,http://harrison.biz/,2024-03-01 22:06:05,2024-01-19 15:42:47
+163,8,Search,2024-02-15,18:50:28,456,18,Desktop,Safari,Adrianland,http://www.evans.biz/,2024-01-10 05:14:40,2024-05-16 23:46:42
+164,45,Home Page,2024-01-22,17:11:22,1711,4,Mobile,Opera,Williamfurt,http://garcia.biz/,2024-07-17 23:58:31,2024-05-16 06:46:56
+165,69,Blog,2024-01-15,13:49:56,1356,14,Tablet,Safari,New Eddie,http://fleming.info/,2024-05-03 15:54:14,2024-05-23 05:01:09
+166,22,Checkout,2024-05-10,17:43:58,770,5,Tablet,Edge,New Tinaberg,https://www.ellis.org/,2024-04-17 05:08:56,2024-06-24 15:28:08
+167,44,Checkout,2024-01-01,08:55:42,274,9,Tablet,Opera,Mollymouth,https://stevens.com/,2024-01-29 06:01:16,2024-02-01 08:10:27
+168,48,Blog,2024-03-02,05:15:37,1773,20,Tablet,Edge,East Kevin,https://jackson-tanner.com/,2024-03-22 13:44:11,2024-01-18 10:27:35
+169,34,Blog,2024-04-23,12:10:51,1407,20,Desktop,Chrome,New Jonathon,http://www.roberts.info/,2024-05-07 04:39:06,2024-03-09 21:57:21
+170,99,Blog,2024-01-29,10:03:39,2409,31,Desktop,Firefox,Port Jamestown,https://dunn.com/,2024-02-28 21:03:46,2024-02-12 10:39:02
+171,31,Product Page,2024-04-08,21:11:03,3422,31,Mobile,Safari,New Joseph,http://jennings.info/,2024-03-02 20:41:55,2024-05-05 20:06:39
+172,38,Home Page,2024-01-19,19:53:56,2060,4,Mobile,Firefox,Dixonborough,https://walker-farmer.org/,2024-03-25 01:13:31,2024-01-21 21:18:47
+173,1,Product Page,2024-04-06,07:45:50,1202,1,Tablet,Opera,Colonberg,http://villarreal.biz/,2024-07-18 02:13:50,2024-06-21 21:40:45
+174,19,Product Page,2024-07-17,11:38:44,2488,23,Desktop,Safari,New Rachel,http://byrd.com/,2024-03-14 18:43:04,2024-06-06 17:00:02
+175,23,Home Page,2024-01-29,03:22:03,611,31,Mobile,Firefox,Davidbury,https://swanson-franklin.info/,2024-07-04 00:18:48,2024-03-04 06:24:08
+176,13,Product Page,2024-01-05,08:10:04,1656,5,Tablet,Opera,Ericmouth,http://cruz.org/,2024-04-09 05:42:06,2024-01-07 03:10:49
+177,13,Home Page,2024-07-12,15:35:23,2668,39,Mobile,Safari,Lake Jeremiah,http://www.bruce.biz/,2024-02-05 09:27:01,2024-06-25 15:40:25
+178,64,Search,2024-06-02,08:25:31,335,38,Mobile,Chrome,New Ronald,https://www.lawrence.org/,2024-05-07 17:44:17,2024-01-21 20:58:43
+179,89,Search,2024-06-10,05:07:54,1102,16,Mobile,Chrome,Kimberlyshire,https://www.gibbs.com/,2024-01-28 20:55:43,2024-03-03 14:24:12
+180,39,Product Page,2024-07-09,02:31:36,3236,23,Tablet,Opera,West Courtneytown,http://ruiz.com/,2024-05-07 20:25:42,2024-05-18 22:13:39
+181,66,Search,2024-04-18,10:14:49,3173,38,Desktop,Firefox,Andrewhaven,http://www.woodward.com/,2024-02-11 04:10:28,2024-03-25 07:10:14
+182,92,Search,2024-04-01,15:58:42,800,43,Desktop,Opera,West Tara,http://castillo-keller.com/,2024-06-22 02:40:47,2024-07-18 07:57:20
+183,84,Search,2024-06-23,00:47:47,705,15,Mobile,Chrome,West Benjamin,https://kim-anderson.com/,2024-06-18 07:10:01,2024-01-09 12:37:46
+184,22,Blog,2024-03-15,13:09:34,2939,1,Mobile,Chrome,Haneyland,http://palmer-mcgee.com/,2024-06-12 17:17:01,2024-03-07 00:36:21
+185,75,Product Page,2024-06-02,16:21:50,2230,49,Tablet,Firefox,South Erikaside,http://www.cunningham.org/,2024-01-01 15:36:55,2024-04-08 21:55:01
+186,24,Search,2024-01-23,19:57:57,744,49,Tablet,Safari,South Timothy,http://www.hill.com/,2024-01-03 14:52:40,2024-02-15 11:38:31
+187,60,Checkout,2024-02-02,17:53:55,3256,42,Mobile,Firefox,North Saramouth,http://www.sanders.org/,2024-06-10 10:06:15,2024-05-30 17:32:10
+188,45,Home Page,2024-03-06,02:39:52,2042,42,Mobile,Safari,New Charlestown,http://www.grant-cross.net/,2024-04-25 22:48:37,2024-06-08 11:41:45
+189,29,Blog,2024-07-13,19:55:03,2525,3,Tablet,Chrome,Port Colleenshire,http://richardson.com/,2024-07-08 18:19:34,2024-07-01 13:07:57
+190,59,Search,2024-01-21,09:02:32,1605,16,Mobile,Firefox,East Andreaton,http://www.cooper-lewis.com/,2024-03-18 16:29:59,2024-01-15 11:25:00
+191,10,Product Page,2024-03-05,19:18:02,316,25,Mobile,Edge,Danielston,http://anderson.com/,2024-05-30 22:39:30,2024-02-19 01:15:51
+192,78,Home Page,2024-05-05,01:35:55,2910,40,Desktop,Opera,Port Miranda,https://moore.info/,2024-02-12 17:06:17,2024-06-22 21:32:50
+193,61,Blog,2024-03-22,07:37:24,820,38,Tablet,Opera,West Martinmouth,https://hughes-ford.com/,2024-04-02 15:20:40,2024-01-19 14:15:15
+194,61,Product Page,2024-07-10,10:14:32,1928,29,Mobile,Safari,Stephenberg,https://morgan.com/,2024-01-02 19:24:54,2024-04-14 04:58:08
+195,33,Checkout,2024-05-10,21:08:44,3222,35,Tablet,Safari,East Mackenzie,https://reynolds-kerr.biz/,2024-06-26 16:39:49,2024-07-21 05:04:07
+196,19,Product Page,2024-06-21,03:33:13,1983,21,Tablet,Firefox,East Lindaview,https://baker.com/,2024-04-27 01:52:47,2024-06-10 08:56:49
+197,50,Search,2024-07-10,02:54:45,197,33,Desktop,Edge,West Steve,http://www.conner-winters.com/,2024-04-26 15:52:45,2024-06-02 09:41:43
+198,47,Product Page,2024-04-19,03:29:58,3052,15,Tablet,Chrome,North Jamesborough,https://ryan.com/,2024-06-21 00:12:32,2024-04-11 00:38:23
+199,9,Search,2024-02-24,19:27:37,2566,40,Desktop,Chrome,Phamchester,https://www.barker.com/,2024-01-06 05:29:44,2024-02-24 19:42:30
+200,42,Home Page,2024-03-17,01:13:02,1669,33,Desktop,Chrome,Batesberg,http://gutierrez.org/,2024-01-03 10:55:47,2024-05-05 21:29:02

@@ -1,0 +1,201 @@
+trend_id,product_group_id,trend_description,start_date,end_date,trend_impact,region,market_share,growth_rate,created_at,updated_at
+1,50,Increase in demand for drones,2020-03-27,2023-08-13,Neutral,South America,94.75,-7.52,2024-04-26 16:46:29,2020-10-19 13:04:05
+2,28,High sales of electric scooters,2023-05-21,2021-12-25,Positive,Africa,4.02,9.74,2020-08-10 13:28:22,2024-05-11 02:44:20
+3,32,Growth in virtual reality equipment sales,2024-03-19,2021-02-17,Negative,South America,52.94,-8.18,2024-02-25 13:12:00,2020-07-18 01:22:35
+4,41,Expansion of robotic vacuum market,2021-10-09,2021-01-21,Neutral,Africa,46.16,4.94,2021-08-18 05:52:49,2020-06-18 16:09:44
+5,26,Growth in fitness tracker sales,2023-01-12,2021-12-01,Neutral,North America,63.83,2.09,2022-01-12 08:36:49,2021-07-25 03:27:15
+6,47,Increase in demand for 4K TVs,2024-07-04,2020-09-28,Positive,Africa,82.96,1.47,2021-01-28 08:35:29,2022-08-09 05:34:26
+7,43,Surge in smart speaker adoption,2023-05-16,2022-08-26,Neutral,Australia,36.38,-8.58,2023-11-27 11:10:40,2023-11-26 21:02:06
+8,16,Expansion of robotic vacuum market,2022-12-08,2023-11-15,Neutral,Australia,99.83,2.54,2022-07-23 12:22:00,2023-10-04 10:05:19
+9,28,Expansion of wireless earbuds market,2022-06-20,2020-05-26,Neutral,Asia,37.88,-7.05,2023-10-18 13:54:59,2020-04-10 15:18:53
+10,38,Rise in demand for high-end headphones,2020-05-30,2022-08-26,Positive,Asia,27.64,3.5,2023-03-20 16:28:09,2020-03-16 06:50:37
+11,23,Growth in fitness tracker sales,2020-05-09,2024-02-16,Neutral,Asia,12.26,7.07,2020-09-12 01:24:05,2022-03-11 18:45:12
+12,50,Rise in demand for high-end headphones,2021-01-12,2023-10-30,Positive,South America,75.32,3.63,2022-01-28 20:51:55,2023-08-27 19:57:03
+13,40,Rise in portable power bank market,2020-10-22,2022-11-18,Neutral,Africa,34.06,7.74,2024-07-16 02:04:55,2022-06-08 10:27:47
+14,42,Increase in demand for smartwatches,2023-09-09,2022-07-17,Positive,South America,32.68,2.68,2023-10-04 17:32:16,2023-07-15 10:38:42
+15,23,Rise in portable power bank market,2020-03-22,2022-11-20,Negative,Asia,17.13,1.58,2024-02-01 21:00:38,2022-02-09 19:24:11
+16,39,Increase in demand for drones,2024-03-13,2022-04-12,Negative,Europe,73.49,-7.14,2020-06-01 01:28:28,2023-04-24 10:41:06
+17,18,Increase in demand for 4K TVs,2023-12-06,2020-05-03,Negative,Australia,92.32,-8.8,2021-07-31 20:30:45,2024-07-05 06:43:00
+18,18,Growth in wearable technology market,2024-01-16,2021-05-10,Neutral,Africa,45.87,2.75,2024-01-05 13:13:51,2024-06-10 05:07:16
+19,42,Increase in demand for drones,2021-04-25,2024-06-05,Negative,Australia,11.69,-5.12,2021-08-17 13:05:49,2024-01-08 04:25:28
+20,4,Increase in electric bike market,2023-04-09,2023-06-20,Negative,Australia,87.83,7.15,2022-07-26 06:15:06,2021-08-03 20:16:15
+21,19,Increase in demand for drones,2020-12-17,2022-01-29,Positive,Africa,72.55,7.29,2020-05-06 05:12:26,2020-09-05 11:16:18
+22,7,Surge in action camera market,2023-01-20,2023-05-31,Positive,Africa,11.05,1.34,2022-04-14 10:49:08,2022-02-25 09:01:39
+23,13,Increase in electric bike market,2022-02-07,2023-06-06,Positive,North America,41.37,-0.38,2024-06-26 22:18:14,2020-06-24 15:59:15
+24,50,Increase in demand for smartwatches,2022-12-23,2021-05-18,Neutral,Australia,69.43,-9.12,2022-05-18 17:49:03,2023-02-22 17:49:52
+25,31,Expansion of wireless earbuds market,2023-02-12,2023-11-12,Neutral,Africa,90.29,1.14,2022-07-03 23:25:41,2024-01-28 11:37:27
+26,7,Rise in demand for high-end headphones,2022-07-10,2024-06-11,Neutral,South America,68.91,1.8,2021-05-07 01:43:43,2021-03-19 13:24:57
+27,22,Expansion of robotic vacuum market,2021-05-12,2023-10-09,Negative,Australia,37.76,2.74,2023-03-24 22:59:15,2020-01-15 09:01:49
+28,45,Growth in Bluetooth speaker market,2022-08-03,2023-08-29,Positive,Asia,93.94,4.7,2023-06-08 05:27:21,2022-02-22 15:33:36
+29,18,High sales of gaming consoles,2020-12-11,2022-08-08,Neutral,Asia,72.64,9.52,2023-08-19 03:28:59,2020-05-27 02:56:50
+30,45,Growth in Bluetooth speaker market,2020-08-31,2024-05-07,Positive,Europe,42.55,-6.48,2023-05-14 06:13:03,2023-03-02 22:24:06
+31,2,Increase in demand for smartwatches,2023-07-13,2024-01-19,Negative,South America,81.56,-4.66,2024-05-30 03:47:34,2024-02-02 23:59:25
+32,11,Surge in sales of home security cameras,2020-08-22,2024-03-21,Neutral,Australia,74.3,-8.31,2021-08-10 21:37:33,2021-03-26 23:57:42
+33,12,Growth in the market for 3D printers,2022-02-16,2023-05-05,Positive,Australia,29.85,0.54,2023-12-11 23:37:26,2023-02-08 03:04:46
+34,28,Expansion of robotic vacuum market,2022-11-06,2020-10-09,Negative,North America,2.24,8.42,2020-09-24 00:06:42,2023-06-25 16:23:02
+35,24,Increase in electric bike market,2021-04-10,2023-11-09,Negative,North America,47.97,5.64,2021-02-11 19:36:28,2022-03-17 19:20:37
+36,48,Increase in sales of streaming devices,2023-06-23,2020-01-09,Positive,South America,92.93,-7.82,2023-04-08 01:37:54,2023-01-22 22:34:52
+37,36,Growth in wearable technology market,2020-06-02,2023-12-07,Negative,North America,64.83,5.29,2022-05-24 09:24:07,2020-07-26 16:31:48
+38,32,Increase in demand for drones,2020-12-17,2022-09-02,Positive,Asia,43.41,-0.49,2020-09-26 18:27:39,2023-12-09 00:29:09
+39,7,Increase in demand for smartwatches,2023-05-28,2020-02-17,Positive,North America,20.26,7.94,2020-02-23 16:29:59,2023-08-29 21:22:40
+40,47,High sales of electric scooters,2021-06-19,2021-06-15,Positive,North America,17.72,-0.79,2020-04-19 04:22:28,2020-11-30 04:27:19
+41,33,Growth in virtual reality equipment sales,2022-10-31,2022-07-10,Positive,Africa,54.76,-9.32,2021-05-20 09:14:46,2020-01-17 21:53:14
+42,1,Increase in electric bike market,2020-03-11,2023-07-05,Neutral,Africa,85.4,3.19,2023-12-02 18:45:17,2024-04-22 08:27:07
+43,50,Expansion of robotic vacuum market,2021-06-20,2020-09-07,Neutral,Asia,89.33,5.48,2023-11-26 16:01:39,2023-05-17 19:18:21
+44,14,Growth in wearable technology market,2021-01-31,2024-06-16,Neutral,Europe,68.0,3.72,2022-11-18 11:42:02,2023-02-08 07:52:10
+45,49,Increase in sales of streaming devices,2022-02-01,2021-01-29,Negative,Australia,63.79,7.26,2020-03-28 04:10:06,2023-03-06 12:19:34
+46,41,Increase in demand for drones,2021-09-11,2023-10-26,Neutral,North America,11.57,-8.66,2020-11-20 17:32:57,2020-12-14 14:35:20
+47,45,Surge in sales of home security cameras,2024-02-03,2020-07-13,Negative,South America,98.74,2.8,2020-12-21 01:42:31,2021-06-02 13:59:15
+48,27,Growth in wearable technology market,2020-04-25,2022-03-15,Neutral,Australia,39.6,9.71,2022-05-15 06:49:21,2022-12-31 01:19:01
+49,15,Rise in popularity of smart home devices,2021-06-06,2023-07-08,Negative,Europe,64.57,-8.61,2023-12-01 05:21:32,2020-07-17 07:46:07
+50,24,High sales of electric scooters,2021-08-22,2024-04-28,Neutral,Australia,26.2,7.71,2022-06-20 15:00:31,2023-04-17 00:04:15
+51,6,Increase in sales of streaming devices,2022-12-04,2020-04-04,Negative,North America,29.85,9.79,2024-07-07 04:02:42,2023-05-15 12:05:09
+52,9,Surge in sales of home security cameras,2022-03-15,2021-04-23,Positive,Australia,77.16,-7.26,2024-07-18 17:19:14,2021-07-01 05:56:00
+53,6,Surge in action camera market,2021-11-23,2020-09-20,Negative,Asia,63.63,-9.16,2021-07-14 11:56:55,2022-02-13 02:16:04
+54,9,Rise in portable power bank market,2022-08-13,2022-05-18,Neutral,North America,91.1,7.84,2023-07-18 16:15:51,2021-06-01 08:02:59
+55,1,Growth in the market for 3D printers,2021-05-26,2024-06-01,Negative,North America,38.21,-2.31,2024-01-13 08:58:23,2023-04-12 03:18:39
+56,10,Growth in fitness tracker sales,2020-10-27,2022-05-16,Positive,Europe,90.86,8.93,2023-05-17 01:08:44,2024-02-07 12:37:41
+57,15,Rise in portable power bank market,2020-05-10,2021-03-28,Neutral,Australia,38.84,2.92,2023-10-18 07:31:22,2020-04-30 01:15:29
+58,44,Surge in sales of home security cameras,2023-07-13,2020-09-22,Negative,South America,26.77,1.99,2023-04-15 08:17:30,2024-04-10 14:30:27
+59,5,Growth in virtual reality equipment sales,2021-10-28,2023-05-15,Neutral,Africa,26.86,9.56,2022-07-30 01:57:33,2023-11-21 16:37:59
+60,6,Increase in demand for 4K TVs,2022-10-05,2021-11-10,Positive,South America,42.82,-1.1,2021-07-28 17:50:47,2022-05-30 18:39:07
+61,2,Increase in electric bike market,2020-07-16,2020-09-15,Negative,Australia,42.48,-7.94,2020-04-25 21:24:20,2024-04-28 22:07:33
+62,7,Surge in smart speaker adoption,2021-03-07,2021-11-30,Neutral,South America,18.77,5.17,2021-10-03 12:55:42,2020-08-09 15:59:41
+63,46,Increase in electric bike market,2022-03-04,2023-09-05,Positive,Africa,97.54,-3.05,2020-03-25 19:04:59,2024-03-03 14:21:01
+64,40,Rise in popularity of smart home devices,2023-02-27,2022-03-20,Positive,Asia,56.27,-1.71,2021-04-15 14:40:41,2023-03-17 18:13:52
+65,8,Rise in demand for high-end headphones,2020-05-11,2022-12-19,Neutral,Australia,64.39,-1.07,2021-09-03 16:19:42,2020-08-19 12:41:32
+66,32,High sales of electric scooters,2023-02-22,2021-10-29,Neutral,Asia,56.82,4.62,2022-01-12 23:20:44,2020-04-28 19:51:30
+67,42,Surge in smart speaker adoption,2023-12-17,2021-07-14,Positive,North America,3.47,-4.59,2020-05-22 15:44:56,2023-01-29 19:42:45
+68,26,Increase in sales of streaming devices,2021-02-03,2021-07-02,Neutral,Europe,52.85,3.8,2023-04-25 02:16:16,2021-02-24 05:44:08
+69,19,Rise in popularity of smart home devices,2020-10-13,2022-02-14,Positive,North America,70.42,9.86,2021-12-06 00:49:11,2021-03-17 14:46:07
+70,15,High sales of gaming consoles,2021-04-20,2022-01-24,Negative,Africa,97.04,6.84,2022-07-23 04:52:50,2024-02-06 05:33:32
+71,50,Growth in the market for 3D printers,2022-04-16,2023-05-15,Neutral,Australia,12.86,-6.41,2023-03-01 19:28:44,2021-04-02 01:51:06
+72,3,Surge in action camera market,2022-10-14,2020-12-22,Negative,North America,85.58,1.92,2020-08-05 19:33:47,2022-10-29 04:48:13
+73,39,Increase in demand for drones,2020-04-26,2020-06-18,Negative,South America,26.82,4.67,2021-11-06 06:00:53,2020-09-18 23:05:46
+74,37,Surge in sales of home security cameras,2023-02-28,2022-07-31,Negative,Europe,48.92,7.75,2023-07-06 03:24:51,2023-11-05 13:11:12
+75,36,Growth in virtual reality equipment sales,2024-07-17,2022-09-12,Negative,Africa,37.83,5.6,2021-02-19 22:40:51,2022-05-11 22:14:43
+76,39,Surge in action camera market,2021-03-26,2022-02-26,Negative,Europe,36.38,6.38,2021-02-09 22:18:59,2023-10-10 23:05:45
+77,14,Growth in virtual reality equipment sales,2021-03-09,2021-04-16,Negative,North America,33.05,5.85,2022-03-05 05:03:47,2023-09-20 19:15:10
+78,38,Growth in Bluetooth speaker market,2021-02-10,2024-02-12,Neutral,Asia,85.26,-5.85,2020-06-23 06:37:22,2024-01-29 20:39:23
+79,48,Growth in virtual reality equipment sales,2020-12-23,2021-12-22,Neutral,Australia,15.59,3.86,2023-07-05 17:52:15,2021-05-23 18:46:36
+80,1,High sales of gaming consoles,2020-12-10,2021-01-10,Neutral,Asia,29.99,-1.83,2021-05-05 22:36:55,2023-08-07 08:11:23
+81,4,Surge in action camera market,2023-06-26,2022-10-14,Positive,Africa,68.7,-0.05,2021-12-11 00:45:22,2023-02-15 20:18:26
+82,10,Growth in virtual reality equipment sales,2022-04-07,2020-04-25,Positive,Europe,86.99,-5.38,2021-09-22 01:03:28,2020-11-02 02:07:17
+83,24,Growth in wearable technology market,2021-10-22,2022-08-13,Negative,Africa,88.9,-1.31,2023-07-05 06:19:46,2022-01-25 09:38:41
+84,34,High sales of gaming consoles,2021-11-30,2020-01-21,Negative,South America,89.66,-6.11,2021-08-10 11:16:45,2022-01-06 19:52:55
+85,19,Increase in demand for 4K TVs,2021-10-14,2021-09-05,Neutral,North America,21.1,-0.21,2022-03-09 00:01:37,2022-02-26 04:12:33
+86,47,Growth in Bluetooth speaker market,2020-11-24,2022-06-13,Positive,Australia,91.67,8.84,2020-10-30 18:47:28,2024-03-21 05:42:14
+87,38,High sales of gaming consoles,2021-02-01,2023-09-28,Neutral,North America,29.17,7.03,2022-12-02 14:35:07,2020-08-08 23:50:30
+88,20,Increase in demand for drones,2020-08-01,2022-01-29,Positive,Europe,46.4,0.83,2020-11-06 12:15:06,2024-06-01 08:02:28
+89,31,Growth in Bluetooth speaker market,2023-06-07,2023-08-08,Negative,South America,22.64,-6.4,2021-11-03 17:36:39,2023-01-03 15:51:30
+90,44,Growth in the market for 3D printers,2023-04-12,2024-01-27,Positive,North America,91.0,4.1,2023-01-29 00:29:52,2021-06-27 04:01:42
+91,25,Increase in sales of streaming devices,2021-07-20,2023-08-16,Negative,Europe,59.3,6.3,2020-02-26 07:05:08,2024-04-15 19:27:12
+92,21,Expansion of robotic vacuum market,2023-08-11,2021-06-29,Negative,Asia,58.41,-5.07,2020-12-12 10:27:31,2023-10-13 05:25:35
+93,21,Rise in popularity of smart home devices,2024-02-14,2021-03-27,Positive,South America,85.68,4.41,2021-03-19 15:28:58,2021-03-11 19:30:36
+94,33,Growth in virtual reality equipment sales,2021-01-23,2022-07-30,Positive,Europe,67.6,-4.31,2024-07-06 11:12:20,2020-11-18 21:39:49
+95,34,Expansion of wireless earbuds market,2024-04-21,2023-04-18,Neutral,North America,57.63,7.97,2024-05-17 10:33:50,2020-10-03 06:46:41
+96,18,Increase in demand for smartwatches,2021-02-14,2022-04-23,Negative,Asia,83.13,4.72,2022-06-01 13:09:33,2022-04-29 11:25:31
+97,23,Increase in demand for smartwatches,2020-10-08,2023-03-13,Neutral,Australia,22.85,-1.38,2020-08-13 06:49:35,2020-02-17 06:20:34
+98,17,Expansion of wireless earbuds market,2024-05-23,2022-10-17,Neutral,Africa,99.32,0.2,2021-02-09 14:18:50,2021-06-23 12:06:09
+99,35,Growth in Bluetooth speaker market,2023-02-05,2020-11-09,Positive,North America,40.07,0.09,2020-02-19 12:04:46,2021-01-30 21:47:41
+100,23,Growth in the market for 3D printers,2023-12-31,2020-02-14,Neutral,Europe,12.86,-4.26,2021-07-24 05:11:07,2023-02-28 12:53:32
+101,27,Growth in the market for 3D printers,2022-06-27,2020-12-09,Positive,Australia,16.93,6.32,2020-11-06 20:16:46,2020-10-29 16:18:33
+102,12,Surge in action camera market,2023-10-28,2023-09-19,Neutral,Australia,56.92,4.94,2023-06-02 15:03:59,2024-04-15 02:13:19
+103,11,Increase in demand for 4K TVs,2020-07-08,2021-08-01,Positive,Australia,64.61,4.98,2023-05-12 12:12:01,2023-10-13 07:30:32
+104,3,Increase in electric bike market,2021-12-20,2020-03-22,Neutral,North America,89.18,0.72,2021-08-13 13:04:38,2023-08-25 11:16:43
+105,25,Rise in portable power bank market,2022-11-22,2022-12-09,Neutral,South America,2.27,8.69,2023-01-09 21:39:27,2022-11-01 00:48:53
+106,23,Growth in fitness tracker sales,2020-10-18,2023-08-04,Neutral,South America,69.93,1.13,2021-03-19 13:37:04,2022-02-12 02:03:32
+107,5,Increase in demand for 4K TVs,2022-01-31,2022-11-25,Positive,Asia,67.62,-5.38,2022-11-06 15:22:16,2022-11-21 23:15:57
+108,46,Rise in demand for high-end headphones,2022-02-03,2023-11-04,Neutral,Africa,33.96,8.0,2022-07-22 09:52:19,2024-06-09 12:40:09
+109,32,Increase in electric bike market,2023-06-28,2020-05-14,Negative,Europe,58.12,5.79,2023-10-10 08:57:52,2020-10-13 04:36:43
+110,33,Increase in sales of streaming devices,2020-05-12,2021-04-01,Negative,South America,20.04,0.64,2024-04-15 05:53:45,2020-09-24 09:10:16
+111,27,Increase in demand for smartwatches,2021-12-05,2020-03-10,Negative,Europe,67.45,2.44,2022-03-03 19:04:18,2023-05-27 13:30:28
+112,25,Surge in sales of home security cameras,2024-03-12,2021-09-05,Neutral,Australia,86.0,8.48,2020-08-05 07:11:57,2020-04-11 08:30:11
+113,40,Increase in demand for 4K TVs,2020-01-15,2021-12-03,Neutral,Europe,52.97,-6.47,2023-06-12 12:19:09,2020-08-26 23:53:51
+114,41,Rise in popularity of smart home devices,2020-11-08,2022-01-09,Positive,Europe,9.7,1.5,2020-07-07 21:36:05,2020-08-21 23:18:45
+115,2,Growth in Bluetooth speaker market,2023-01-28,2023-05-23,Negative,Africa,12.42,-1.0,2022-10-20 17:03:24,2022-08-07 17:51:24
+116,33,High sales of electric scooters,2022-11-28,2020-04-14,Neutral,Asia,27.63,8.8,2022-04-23 02:19:13,2022-08-13 08:04:18
+117,4,Surge in action camera market,2022-02-11,2021-10-09,Positive,Africa,61.22,-8.49,2021-04-26 22:45:10,2023-06-24 23:46:58
+118,39,Increase in electric bike market,2022-07-23,2024-02-01,Neutral,North America,50.96,6.68,2020-07-27 08:45:20,2020-11-18 23:03:12
+119,49,Surge in smart speaker adoption,2020-04-11,2021-07-27,Positive,Australia,72.58,-0.91,2023-09-25 20:32:26,2023-05-05 19:08:02
+120,50,Rise in demand for high-end headphones,2023-09-27,2021-02-24,Neutral,Asia,30.37,5.19,2020-11-30 01:13:55,2020-09-24 04:00:22
+121,40,Growth in the market for 3D printers,2023-10-17,2020-07-31,Neutral,Europe,55.76,-1.96,2021-06-23 12:50:34,2022-01-27 03:55:47
+122,22,Expansion of robotic vacuum market,2023-12-06,2024-05-04,Negative,Australia,72.66,2.36,2022-08-03 09:04:28,2021-01-23 17:12:35
+123,44,Surge in action camera market,2020-07-30,2022-04-04,Neutral,Australia,46.71,-3.26,2023-03-12 04:17:55,2020-10-05 15:12:06
+124,15,Increase in demand for smartwatches,2021-09-18,2021-12-09,Negative,Africa,13.18,-8.18,2021-07-14 02:28:37,2021-07-16 12:25:02
+125,45,Expansion of robotic vacuum market,2022-06-19,2022-06-22,Positive,Australia,22.3,-0.4,2022-02-27 13:51:29,2020-03-06 04:58:12
+126,40,High sales of electric scooters,2023-07-08,2022-11-03,Neutral,North America,80.18,-1.86,2022-07-03 11:32:06,2023-05-20 02:23:14
+127,22,Growth in fitness tracker sales,2023-12-24,2022-02-08,Neutral,South America,23.85,1.34,2023-06-26 03:02:39,2023-12-13 05:31:35
+128,4,Rise in demand for high-end headphones,2023-12-12,2022-05-28,Negative,Asia,81.57,0.79,2023-04-25 06:19:58,2022-11-30 14:28:12
+129,31,Increase in demand for smartwatches,2021-12-30,2024-02-11,Neutral,Africa,67.57,-2.46,2021-11-15 16:55:54,2020-02-13 14:06:57
+130,43,Growth in Bluetooth speaker market,2021-12-05,2022-05-14,Negative,North America,38.71,5.87,2024-05-22 17:58:54,2021-08-23 07:57:20
+131,44,Growth in Bluetooth speaker market,2024-06-12,2020-02-09,Positive,Asia,73.3,3.69,2020-02-17 15:44:01,2023-10-20 03:00:51
+132,44,Expansion of wireless earbuds market,2023-12-17,2020-12-04,Negative,Africa,5.06,9.81,2020-12-31 10:13:32,2022-09-26 06:33:27
+133,40,Rise in popularity of smart home devices,2023-06-24,2022-01-07,Positive,South America,35.96,9.38,2021-02-22 07:02:42,2021-06-01 18:57:56
+134,50,Increase in demand for drones,2020-02-22,2020-10-08,Neutral,Africa,70.35,8.9,2022-06-05 01:47:36,2024-07-13 20:15:21
+135,18,Growth in the market for 3D printers,2021-03-02,2022-08-20,Neutral,Africa,35.27,-1.33,2023-07-12 13:12:19,2023-04-19 00:51:15
+136,7,Surge in sales of home security cameras,2021-06-10,2024-06-27,Negative,Europe,52.76,-6.44,2020-05-17 13:59:09,2024-02-26 20:22:56
+137,5,Surge in sales of home security cameras,2023-07-28,2023-09-29,Neutral,Australia,18.25,8.37,2023-02-08 14:07:19,2023-09-27 11:47:54
+138,23,Increase in demand for 4K TVs,2021-03-09,2024-01-18,Neutral,Australia,98.51,0.75,2023-08-13 18:13:19,2021-11-25 19:17:01
+139,22,Expansion of wireless earbuds market,2021-09-10,2023-07-11,Negative,North America,31.16,9.24,2022-10-31 20:12:50,2021-02-24 09:29:26
+140,47,Increase in sales of streaming devices,2020-12-27,2021-01-26,Neutral,North America,26.23,2.8,2024-05-24 16:05:29,2022-01-15 01:22:15
+141,29,Growth in the market for 3D printers,2024-03-02,2022-08-10,Neutral,Asia,49.1,-8.77,2024-02-01 04:37:10,2020-11-29 08:21:29
+142,16,High sales of gaming consoles,2024-01-23,2020-04-11,Positive,Australia,86.37,1.6,2024-05-31 17:32:37,2020-07-16 02:39:01
+143,14,High sales of electric scooters,2023-04-06,2022-12-15,Positive,South America,81.27,1.19,2021-12-25 15:53:22,2020-11-26 02:10:48
+144,36,Surge in smart speaker adoption,2022-03-05,2020-05-11,Positive,Asia,60.7,6.85,2022-12-22 01:55:33,2021-05-08 09:00:16
+145,18,Growth in the market for 3D printers,2022-10-09,2024-06-04,Neutral,Africa,93.91,6.44,2022-07-23 03:02:17,2024-01-04 18:34:30
+146,40,Surge in sales of home security cameras,2020-08-26,2023-06-16,Neutral,North America,27.68,0.13,2021-11-06 01:52:23,2024-06-02 16:13:50
+147,28,Rise in demand for high-end headphones,2020-06-29,2022-02-20,Positive,North America,60.6,3.63,2020-08-29 10:02:15,2021-05-27 08:31:42
+148,34,Surge in action camera market,2021-05-06,2021-08-22,Neutral,Africa,45.48,1.26,2022-05-17 23:20:02,2023-09-30 19:27:40
+149,19,Growth in wearable technology market,2023-12-22,2020-04-11,Positive,Europe,71.71,-9.46,2023-05-14 01:21:18,2022-11-16 08:36:37
+150,42,Growth in the market for 3D printers,2022-08-04,2021-03-22,Neutral,Europe,94.92,-3.72,2023-06-17 09:17:09,2023-03-01 08:01:37
+151,10,Surge in smart speaker adoption,2023-10-30,2023-05-08,Positive,Africa,36.65,1.86,2021-09-24 12:41:56,2023-07-07 02:14:35
+152,49,Growth in fitness tracker sales,2023-10-02,2022-12-21,Negative,Africa,48.2,9.9,2022-12-20 20:23:04,2022-02-28 21:01:06
+153,49,Surge in smart speaker adoption,2022-11-21,2022-12-09,Neutral,Asia,61.46,8.1,2022-09-06 06:47:08,2020-06-08 04:54:09
+154,5,Expansion of robotic vacuum market,2021-11-05,2022-01-17,Neutral,Europe,92.61,3.06,2021-02-02 19:00:53,2023-08-22 21:43:36
+155,8,Rise in demand for high-end headphones,2024-02-09,2024-03-05,Positive,North America,74.78,-4.38,2023-09-19 12:21:16,2022-08-27 00:50:59
+156,47,Rise in demand for high-end headphones,2020-01-26,2021-06-01,Positive,Africa,18.55,2.8,2023-06-29 12:23:31,2021-02-12 18:30:55
+157,44,Increase in sales of streaming devices,2023-02-16,2024-06-17,Positive,Australia,13.98,-5.23,2020-12-29 12:12:30,2021-10-09 09:25:48
+158,18,Surge in smart speaker adoption,2020-05-07,2023-09-08,Neutral,South America,31.8,-7.76,2023-05-31 20:38:54,2023-06-27 04:52:08
+159,28,Increase in sales of streaming devices,2023-08-12,2023-09-02,Negative,Africa,58.6,-7.36,2022-06-10 20:25:26,2023-10-17 15:05:03
+160,7,Increase in sales of streaming devices,2023-03-30,2024-05-26,Neutral,North America,80.31,-4.97,2024-06-05 03:30:11,2021-01-20 00:14:25
+161,28,Increase in demand for drones,2024-01-10,2023-01-29,Negative,North America,87.17,-5.82,2021-07-11 04:26:14,2023-06-08 19:48:21
+162,50,Surge in smart speaker adoption,2022-10-10,2024-02-08,Neutral,South America,43.8,9.59,2023-06-12 20:52:51,2024-06-26 02:04:46
+163,11,Expansion of robotic vacuum market,2020-05-02,2023-12-05,Negative,South America,25.17,2.78,2021-10-09 23:01:01,2021-01-05 05:21:36
+164,24,Growth in Bluetooth speaker market,2020-07-12,2022-06-29,Negative,Europe,80.03,4.77,2023-07-11 16:16:45,2021-06-03 15:20:09
+165,4,Increase in demand for 4K TVs,2022-09-15,2021-06-25,Neutral,South America,47.72,1.32,2022-12-31 01:05:46,2021-11-21 00:13:00
+166,22,Surge in sales of home security cameras,2020-04-02,2022-02-14,Neutral,Australia,79.43,-3.96,2021-10-20 06:31:16,2023-02-25 22:58:38
+167,47,Increase in demand for drones,2022-05-19,2021-05-16,Neutral,Asia,3.41,-6.33,2024-06-01 05:40:26,2021-04-29 22:08:33
+168,34,Growth in fitness tracker sales,2023-11-06,2023-10-24,Positive,South America,69.51,9.76,2021-06-10 04:14:13,2020-05-05 15:29:57
+169,32,Growth in fitness tracker sales,2021-02-20,2024-03-16,Negative,North America,5.19,-2.27,2020-07-21 18:46:07,2024-01-10 08:47:26
+170,5,Surge in action camera market,2022-11-28,2023-01-29,Neutral,Europe,35.64,9.83,2023-11-01 22:51:00,2020-07-28 06:14:39
+171,19,Surge in action camera market,2023-09-15,2021-02-12,Neutral,South America,32.5,-9.89,2024-07-11 11:41:24,2020-06-23 13:24:36
+172,31,Increase in electric bike market,2022-06-03,2022-08-20,Positive,Asia,5.32,8.86,2022-03-15 16:57:22,2021-12-07 18:46:59
+173,36,High sales of electric scooters,2020-01-24,2024-01-22,Positive,Australia,35.72,8.08,2020-02-11 15:39:29,2022-04-20 11:47:28
+174,34,Increase in demand for smartwatches,2021-06-26,2024-04-18,Positive,Asia,92.49,8.22,2023-04-10 19:55:39,2020-02-14 03:53:05
+175,17,Growth in wearable technology market,2020-08-06,2024-05-22,Neutral,North America,2.47,-7.93,2023-05-04 01:07:46,2023-04-22 04:55:18
+176,40,High sales of electric scooters,2020-07-11,2024-05-13,Positive,Africa,72.68,0.62,2021-12-12 12:53:45,2021-04-06 12:49:53
+177,15,Surge in sales of home security cameras,2021-08-29,2023-06-05,Neutral,Europe,59.26,-6.49,2022-09-25 15:31:03,2021-05-29 20:07:27
+178,9,Growth in Bluetooth speaker market,2021-06-09,2021-03-21,Negative,North America,93.07,4.14,2020-04-21 03:03:33,2023-09-14 06:05:25
+179,49,Increase in sales of streaming devices,2021-11-27,2021-02-07,Negative,Asia,54.71,-0.5,2022-11-30 18:14:54,2022-03-12 23:26:02
+180,32,Increase in demand for 4K TVs,2021-03-10,2020-09-20,Positive,South America,72.76,6.3,2023-06-23 20:38:57,2022-03-15 03:32:25
+181,40,Growth in fitness tracker sales,2024-05-07,2021-01-03,Neutral,Asia,50.03,-8.02,2022-07-24 07:28:14,2021-02-02 00:30:41
+182,48,Growth in fitness tracker sales,2022-11-17,2020-04-30,Positive,South America,52.72,9.7,2021-04-04 06:05:49,2020-03-07 13:24:32
+183,10,Rise in portable power bank market,2022-04-02,2023-08-16,Positive,Europe,71.04,-7.13,2023-05-19 15:13:37,2023-10-19 05:08:55
+184,29,Growth in wearable technology market,2020-06-15,2021-11-18,Negative,Africa,94.26,-4.68,2021-02-15 18:56:42,2023-01-23 23:45:25
+185,1,Growth in virtual reality equipment sales,2023-04-27,2020-11-18,Positive,Australia,42.02,-5.93,2023-05-04 05:18:21,2020-01-05 08:23:56
+186,49,Expansion of wireless earbuds market,2020-07-27,2021-06-01,Neutral,Africa,83.84,-9.0,2023-05-20 00:37:26,2022-12-23 11:50:39
+187,27,Increase in demand for 4K TVs,2023-10-09,2024-04-26,Positive,Europe,50.29,-5.81,2020-04-18 09:33:53,2020-05-09 19:35:25
+188,6,Growth in Bluetooth speaker market,2021-01-23,2023-07-30,Negative,South America,4.61,0.6,2022-08-24 15:54:17,2022-08-13 20:22:50
+189,12,Increase in demand for 4K TVs,2020-05-26,2023-09-09,Positive,Europe,33.15,-9.29,2020-06-09 14:36:32,2024-01-21 23:42:53
+190,46,High sales of electric scooters,2023-03-06,2023-06-22,Positive,Australia,61.01,8.19,2023-09-24 15:12:38,2023-01-28 02:30:23
+191,26,Increase in demand for 4K TVs,2023-04-08,2020-02-10,Positive,Europe,48.44,5.08,2020-04-29 11:55:37,2020-12-04 14:53:33
+192,25,Increase in demand for drones,2024-04-02,2020-05-17,Neutral,North America,99.42,-0.03,2020-11-26 11:53:50,2022-01-06 23:56:43
+193,40,Expansion of wireless earbuds market,2021-11-24,2022-02-19,Negative,Australia,69.4,-9.97,2023-09-16 17:35:31,2021-06-28 19:01:02
+194,7,High sales of gaming consoles,2023-02-15,2023-09-04,Negative,Australia,34.12,-6.81,2021-11-13 01:25:06,2022-12-24 15:26:41
+195,37,Growth in wearable technology market,2021-08-01,2022-07-21,Negative,Asia,56.45,-0.23,2021-11-02 13:08:09,2023-06-28 22:05:30
+196,36,Rise in popularity of smart home devices,2020-12-18,2021-04-23,Positive,North America,40.05,6.22,2020-10-09 12:30:48,2021-05-28 05:50:32
+197,3,Rise in popularity of smart home devices,2023-07-10,2021-03-02,Positive,Europe,62.85,-6.59,2022-12-22 19:27:08,2024-03-22 01:06:15
+198,20,Growth in wearable technology market,2022-08-15,2024-05-17,Positive,Asia,83.68,7.04,2024-07-02 17:20:55,2020-04-20 00:03:06
+199,22,Rise in portable power bank market,2022-01-12,2020-12-05,Neutral,North America,79.08,2.85,2020-08-21 16:47:53,2021-09-08 19:31:47
+200,49,Increase in electric bike market,2020-09-10,2022-06-26,Positive,Asia,57.57,-0.51,2023-03-27 03:27:39,2022-07-05 22:32:24
